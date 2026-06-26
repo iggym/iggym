@@ -2,11 +2,10 @@
 
 <img width="900" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Iggy%20M.%20—%20AI%20Systems%20Architect&fontSize=42&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
 
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║   I BUILD MACHINES THAT BUILD SOFTWARE.              ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
+<div align="center">
+  <img src="./header.svg" alt="Iggy M. — I build machines that build software." />
+</div>
+
 
 ### ⚡ AI Agent Architect · 🏗️ Software Factory Creator · 🧠 Systems Engineer  
 **Crafting autonomous systems that compress months of engineering into days.**  
@@ -76,43 +75,6 @@ Every repo here is either a **live asset**, a **proof‑of‑concept**, or a **b
 </div>
 
 ---
-
-# 🧭 Design Principles
-
-### ✨ **Strong Visual Header**  
-A bold, distinctive banner sets the tone — clean, modern, unmistakable.
-
-### 🎨 **Minimalistic Visual Language**  
-Limited palette, consistent iconography, intentional whitespace.
-
-### 🧭 **Clear Narrative Structure**  
-A README that guides the reader like a landing page.
-
-### 🖼️ **Visual Examples**  
-Screenshots, GIFs, diagrams — show, don’t tell.
-
-### 🧩 **Personality Without Noise**  
-Human, concise, confident — without clutter.
-
-### 🧪 **User‑First Clarity**  
-Respect the reader’s time. Make onboarding effortless.
-
-### 🧱 **Intentional Typography**  
-Hierarchy, spacing, and rhythm that feel designed.
-
----
-
-# 📚 Anatomy of This README
-
-| Section | Purpose | Aesthetic Technique |
-|--------|---------|---------------------|
-| **Header** | Identity | Gradient banner, centered layout |
-| **Tagline** | Hook | Short, bold, high‑impact |
-| **What I Build** | Value | Icons, concise bullets |
-| **Stack** | Competence | DevIcons, badges |
-| **Now** | Context | Product‑style messaging |
-| **Design Principles** | Philosophy | Clean sections, emojis |
-| **Links** | Navigation | Icon‑based links |
 
 ---
 
