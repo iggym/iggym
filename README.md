@@ -1,8 +1,4 @@
 <div align="center">
-
-<img width="900" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Iggy%20M.%20—%20AI%20Systems%20Architect&fontSize=42&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
-
-<div align="center">
   <img src="./header.svg" alt="Iggy M. — I build machines that build software." />
 </div>
 
