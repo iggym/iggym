@@ -77,7 +77,7 @@ I've spent my career moving up the stack — from embedded firmware to mobile ap
 
 | Category | Technologies |
 |----------|-------------|
-| **AI/ML** | Claude API · GPT-5.5 / GPT-5.4 (OpenAI) · Gemini 3.1 Pro / 3.5 Flash · Llama · GLM-5.2 · Qwen 3.5 / 3.7 · Kimi K2.5 / MiniMax M3 (Moonshot/MiniMax) · Multi-Agent Systems · RAG · LoRA · CLIP · Whisper |
+| **AI/ML** | Claude · OpenAI GPT · Gemini · Llama · Qwen · GLM · Kimi/MiniMax · Multi-Agent Systems · RAG · LoRA · CLIP · Whisper |
 | **Languages** | Python · TypeScript · Go · Swift · Java · Rust · Node · C# · Objective-C |
 | **Cloud & Infra** | AWS · GCP · Azure · Kubernetes · Cloudflare · GitHub Actions · Docker |
 | **Frontend** | React · Svelte · SolidJS · Alpine.js · Vite · Remix |
