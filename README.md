@@ -69,16 +69,18 @@ I've spent my career moving up the stack — from embedded firmware to mobile ap
 
 <div align="center">
 
-<img height="32" src="https://skillicons.dev/icons?i=python,typescript,go,swift,azure,cloudflare,githubactions,react,apple" />
+<img height="32" src="https://skillicons.dev/icons?i=python,typescript,go,swift,java,rust,nodejs,react,svelte,solidjs,alpinejs" />
+<br/>
+<img height="32" src="https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes,cloudflare,githubactions,docker,apple,vite" />
 
 <br/><br/>
 
 | Category | Technologies |
 |----------|-------------|
-| **AI/ML** | Claude API · Multi-Agent Systems · RAG · LoRA · CLIP · Whisper |
-| **Languages** | Python · TypeScript · Go · Swift · C# · Objective-C |
-| **Cloud & Infra** | Azure · Cloudflare · GitHub Actions · Docker |
-| **Frontend** | React · Vite · Remix |
+| **AI/ML** | Claude API · GPT-5.5 / GPT-5.4 (OpenAI) · Gemini 3.1 Pro / 3.5 Flash · Llama · GLM-5.2 · Qwen 3.5 / 3.7 · Kimi K2.5 / MiniMax M3 (Moonshot/MiniMax) · Multi-Agent Systems · RAG · LoRA · CLIP · Whisper |
+| **Languages** | Python · TypeScript · Go · Swift · Java · Rust · Node · C# · Objective-C |
+| **Cloud & Infra** | AWS · GCP · Azure · Kubernetes · Cloudflare · GitHub Actions · Docker |
+| **Frontend** | React · Svelte · SolidJS · Alpine.js · Vite · Remix |
 
 </div>
 
