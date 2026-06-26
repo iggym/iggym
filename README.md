@@ -16,14 +16,8 @@ Not by working harder — by engineering the infrastructure that works without m
 
 ---
 
-# 🌈 Aesthetic Philosophy
 
-<div align="center">
 
-**Apple’s clarity. Airbnb’s warmth. Stripe’s precision.**  
-A README that feels like a product — not a document.
-
-</div>
 
 ---
 
